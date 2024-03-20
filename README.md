@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything :)
 - 📫 How to reach me ... github
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm a male who enjoys crochet
+- ⚡ Fun fact: ... Crochet is one of my favorite hobbies
 
 <!---
 badgermolegit/badgermolegit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
